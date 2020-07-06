@@ -1,0 +1,15 @@
+{
+    "telemetry.enableTelemetry": false,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "window.zoomLevel": 0,
+    "extensions.ignoreRecommendations": false,
+    "editor.rulers": [
+        80
+    ],
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "editor.formatOnPaste": true,
+    "javascript.format.semicolons": "insert"
+}
